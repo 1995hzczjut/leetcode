@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://D:/develop/JDK8/src.zip!/java/util/ServiceLoader.java" line="184" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea49ee09-d9af-400b-9b07-a9d544c2d2b2" name="Default" comment="剑指offer">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/cmb/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/past/HuaWei1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/past/Kujiale1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/past/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/past/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/past/MainDahua.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/past/Yitu1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/past/Yitu2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/sf/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/exem/sf/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/Test1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/index.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p65.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p66.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/Trie/_336.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/newAVL/MyAVLTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_381.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_632.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_224.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_84.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_895.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/String/_10.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/String/_24.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/TestTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_42.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_57.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/bfs/_126.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/bfs/_127.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/ProviderAndComsumer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_37.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_32.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_44.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_45.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_23.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_25.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/math/_128.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/math/_43.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/newcoder/Youzan8_20.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_76.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_992.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/tmp/Util.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/union_find/UnionFind.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/union_find/_547.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfudao/一个n位数现在可以删除其中任意k位使得剩下的数最小.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfudao/二叉树的宽度.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfudao/双栈排序.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfudao/实现有符号大数链表加法.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfudao/无序数组构建一棵二叉排序树.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfudao/最长连续子序列.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfudao/链表m到n反转.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p1.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p1.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p11.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p11.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p12.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p12.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p13.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p13.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p15.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p15.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p17.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p17.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p18.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p18.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p21.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p21.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p23.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p23.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p24.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p24.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p25.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p25.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p26.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p26.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p27todo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p27.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p28.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p28.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p29todo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p29.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p3.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p3.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p30.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p30.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p31todo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p31todo.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p32.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p32.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p33.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p33.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p34.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p34.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p35.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p35.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p36.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p36.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p37.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p37.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p38.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p38.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p39.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p39.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p40.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p40.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p41.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p41.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p42.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p42.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p43.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p43.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p44.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p44.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p46.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p46.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p49.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p49.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p50.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p50.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p51.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p51.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p52.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p52.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p53.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p53.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p54.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p54.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p55.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p55.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p56.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p56.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p57.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p57.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p58.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p58.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p59.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p59.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p6.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p6.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p60.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p60.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p61.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p61.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p62.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p62.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p63.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p63.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p64.java" afterPath="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p64.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_131.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_131.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_46.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_46.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_47.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_47.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_78.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_78.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_79.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_79.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_90.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_90.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_110.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_110.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_297.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_297.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_437.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_437.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_450.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_450.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_543.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_543.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_617.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_617.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_662.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_662.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_96.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_96.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Graph/_207.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Graph/_207.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_146.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_146.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_347.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_347.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_560.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_560.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_739.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_739.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_394.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_394.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_402.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_402.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/String/_680.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/String/_680.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/TwoPointers/_287.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/TwoPointers/_287.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/array/EmlementSwap.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/EmlementSwap.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_268.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_268.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_4.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_4.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_448.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_448.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_56.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_56.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_581.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_581.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_674.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/array/_674.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_105.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_105.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_337.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_337.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_494.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_494.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_98.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_98.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_139.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_139.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_152.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_152.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_198.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_198.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_279.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_279.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_300.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_300.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_309.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_309.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_322.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_322.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_338.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_338.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_416.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_416.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_5.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_5.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_516.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_516.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_55.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_55.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_647.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_647.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_698.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_698.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_95.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_95.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/greedy/_406.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/greedy/_406.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/greedy/_621.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/greedy/_621.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/hzc/_283.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/hzc/_283.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/hzc/_53.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/hzc/_53.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_138.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_138.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_160.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_160.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_19.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_19.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_2.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_2.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_21.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_21.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_234.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_234.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_24.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_24.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_92.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_92.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/math/_470.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/math/_470.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/SlidingWindowUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/SlidingWindowUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_3.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_3.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/sort/SortUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/sort/SortUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/tmp/ArrayMedium2.java" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/tmp/ArrayMedium2.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode_hzc$_623.coverage" NAME="_623 Coverage Results" MODIFIED="1546439227587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leetcode.BinaryTree.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="_24.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/String/_24.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_153.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/BinarySearch/_153.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_547.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/union_find/_547.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnionFind.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/union_find/UnionFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readyOps</find>
+      <find>imageType</find>
+      <find>forName</find>
+      <find>Class.forName</find>
+      <find>isDriverAllowed</find>
+      <find>forname</find>
+      <find>`</find>
+      <find>```</find>
+      <find>contextClassLoader</find>
+      <find>hasQueuedPredecessor</find>
+      <find>matrix[0].length</find>
+      <find>consistent</find>
+      <find>.get</find>
+      <find>coreThreadTimeOut</find>
+      <find>allowCoreThreadTimeOut</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>m</replace>
+      <replace>n</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p66.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p65.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p59.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/exem/cmb/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/array/_581.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/array/_169.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_160.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_152.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_139.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_138.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_114.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/_96.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_78.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/array/_56.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_46.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/Backtracking/_47.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/array/_42.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_19.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p22.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p24.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p27.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p49.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/index.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_37.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_76.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/Trie/_336.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_381.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_146.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_632.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_895.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_23.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_24.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_25.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_224.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_992.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p52.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/String/_10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/String/_44.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/dp/_44.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/bfs/_127.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/bfs/_126.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/String/_24.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaproject\hm19\repository" />
+        <option name="mavenHome" value="D:/develop/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="C:\Users\hzc\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MagicConstant</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode_hzc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_hzc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15319149" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../source-workspace/rocketmq-release-4.4.0" />
+    <property name="SearchEverywhereHistoryKey" value="_153&#9;PSI&#9;JAVA://com.leetcode.BinarySearch._153&#10;_&#9;FILE&#9;file://D:/javaproject/leetcode_hzc/src/main/java/com/leetcode/bfs/_127.java&#10;_24&#9;PSI&#9;JAVA://com.leetcode.linkedlist._24&#10;_146&#9;PSI&#9;JAVA://com.leetcode.HashTable._146&#10;_380&#9;PSI&#9;JAVA://com.leetcode.HashTable._380&#10;_2&#9;PSI&#9;JAVA://com.leetcode.linkedlist._2&#10;_3&#9;PSI&#9;JAVA://com.leetcode.slidingWindow._3&#10;_19&#9;PSI&#9;JAVA://com.leetcode.linkedlist._19&#10;_20&#9;PSI&#9;JAVA://com.leetcode.String._20&#10;_21&#9;PSI&#9;JAVA://com.leetcode.linkedlist._21&#10;_22&#9;PSI&#9;JAVA://com.leetcode.Backtracking._22&#10;_33&#9;PSI&#9;JAVA://com.leetcode.array._33&#10;_39&#9;PSI&#9;JAVA://com.leetcode.Backtracking._39&#10;_47&#9;PSI&#9;JAVA://com.leetcode.Backtracking._47&#10;_42&#9;PSI&#9;JAVA://com.leetcode.array._42&#10;_46&#9;PSI&#9;JAVA://com.leetcode.Backtracking._46&#10;_48&#9;PSI&#9;JAVA://com.leetcode.array._48&#10;_49&#9;PSI&#9;JAVA://com.leetcode.String._49&#10;_53&#9;PSI&#9;JAVA://com.leetcode.hzc._53&#10;_55&#9;PSI&#9;JAVA://com.leetcode.dp._55&#10;_56&#9;PSI&#9;JAVA://com.leetcode.array._56&#10;_64&#9;PSI&#9;JAVA://com.leetcode.dp._64&#10;_79&#9;FILE&#9;file://D:/javaproject/leetcode_hzc/src/main/java/com/leetcode/Backtracking/_79.java&#10;_78&#9;PSI&#9;JAVA://com.leetcode.Backtracking._78&#10;_96&#9;PSI&#9;JAVA://com.leetcode.BinaryTree._96&#10;_98&#9;PSI&#9;JAVA://com.leetcode.dfs._98&#10;_101&#9;PSI&#9;JAVA://com.leetcode.dfs._101&#10;_102&#9;PSI&#9;JAVA://sun.nio.cs.ext.JIS_X_0212_MS5022X&#10;_104&#9;PSI&#9;JAVA://com.leetcode.dfs._104&#10;_105&#9;PSI&#9;JAVA://com.leetcode.dfs._105&#10;_114&#9;PSI&#9;JAVA://com.leetcode.dfs._114&#10;_1&#9;PSI&#9;JAVA://com.leetcode.HashTable._1&#10;_121&#9;PSI&#9;JAVA://com.leetcode.array._121&#10;_128&#9;FILE&#9;file://D:/javaproject/leetcode_hzc/src/main/java/com/leetcode/math/_128.java&#10;_136&#9;PSI&#9;JAVA://com.leetcode.HashTable._136&#10;_138&#9;PSI&#9;JAVA://com.leetcode.linkedlist._138&#10;_139&#9;PSI&#9;JAVA://com.leetcode.dp._139&#10;_129&#9;PSI&#9;JAVA://com.leetcode.dfs._129&#10;_628&#9;PSI&#9;JAVA://com.leetcode.math._628&#10;_5&#9;PSI&#9;JAVA://com.leetcode.dp._5&#10;_152&#9;PSI&#9;JAVA://com.leetcode.dp._152&#10;_160&#9;PSI&#9;JAVA://com.leetcode.linkedlist._160&#10;_169&#9;PSI&#9;JAVA://com.leetcode.array._169&#10;_198&#9;PSI&#9;JAVA://com.leetcode.dp._198&#10;_200&#9;PSI&#9;JAVA://com.leetcode.dfs._200&#10;_206&#9;PSI&#9;JAVA://com.leetcode.linkedlist._206&#10;_215&#9;PSI&#9;JAVA://com.leetcode.Heap._215&#10;_221&#9;PSI&#9;JAVA://com.leetcode.dp._221&#10;_226&#9;PSI&#9;JAVA://com.leetcode.BinaryTree._226&#10;_225&#9;PSI&#9;JAVA://com.leetcode.Stack._225" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.newcode.Test" />
+      <recent name="com.leetcode.annotationTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaproject\leetcode_hzc\src\main\java\com\IOStudy" />
+      <recent name="D:\javaproject\leetcode_hzc\src\main\java\com\jdk8\chap5" />
+      <recent name="D:\javaproject\leetcode_hzc\src\main\java\cn\hzc\leetcode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application._127">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Client (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.annotationTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.annotationTest.Client" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.annotationTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.annotationTest.Client" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.annotationTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.annotationTest.Client" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration name="_127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.bfs._127" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration name="_224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Stack._224" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration name="_632" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.HashTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.HashTable._632" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration name="_895" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Stack._895" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration name="_992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.slidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.slidingWindow._992" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_hzc" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Client (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application._632" />
+      <item index="4" class="java.lang.String" itemvalue="Application._895" />
+      <item index="5" class="java.lang.String" itemvalue="Application._992" />
+      <item index="6" class="java.lang.String" itemvalue="Application._224" />
+      <item index="7" class="java.lang.String" itemvalue="Application._127" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application._127" />
+        <item index="1" class="java.lang.String" itemvalue="Application._224" />
+        <item index="2" class="java.lang.String" itemvalue="Application._992" />
+        <item index="3" class="java.lang.String" itemvalue="Application._895" />
+        <item index="4" class="java.lang.String" itemvalue="Application._632" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea49ee09-d9af-400b-9b07-a9d544c2d2b2" name="Default" comment="" />
+      <created>1542787136092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542787136092</updated>
+      <workItem from="1542787140476" duration="614000" />
+      <workItem from="1542787837074" duration="750000" />
+      <workItem from="1542809446209" duration="5889000" />
+      <workItem from="1542851491260" duration="47000" />
+      <workItem from="1542980234958" duration="6495000" />
+      <workItem from="1543023673283" duration="243000" />
+      <workItem from="1543146963158" duration="6046000" />
+      <workItem from="1543204692918" duration="23000" />
+      <workItem from="1543235810828" duration="8847000" />
+      <workItem from="1543291329274" duration="56000" />
+      <workItem from="1543299340391" duration="3440000" />
+      <workItem from="1543384840254" duration="672000" />
+      <workItem from="1543415003354" duration="4387000" />
+      <workItem from="1543454093079" duration="2024000" />
+      <workItem from="1543500241223" duration="8144000" />
+      <workItem from="1543540449980" duration="2217000" />
+      <workItem from="1543628453188" duration="8729000" />
+      <workItem from="1543720400185" duration="5216000" />
+      <workItem from="1543800595556" duration="1121000" />
+      <workItem from="1543927989818" duration="5660000" />
+      <workItem from="1543975674527" duration="4378000" />
+      <workItem from="1544060601255" duration="5770000" />
+      <workItem from="1544189345451" duration="7949000" />
+      <workItem from="1544241425181" duration="7829000" />
+      <workItem from="1544366231560" duration="4020000" />
+      <workItem from="1544449280380" duration="2338000" />
+      <workItem from="1544517229197" duration="10732000" />
+      <workItem from="1544597544014" duration="1357000" />
+      <workItem from="1544706666629" duration="4622000" />
+      <workItem from="1544752676079" duration="16027000" />
+      <workItem from="1545059610583" duration="599000" />
+      <workItem from="1545143136665" duration="6656000" />
+      <workItem from="1545229671304" duration="7888000" />
+      <workItem from="1545400669972" duration="1376000" />
+      <workItem from="1545490596729" duration="2310000" />
+      <workItem from="1545548819020" duration="838000" />
+      <workItem from="1545654683827" duration="3231000" />
+      <workItem from="1545709951814" duration="20555000" />
+      <workItem from="1545747998908" duration="3478000" />
+      <workItem from="1545803547195" duration="757000" />
+      <workItem from="1545804381536" duration="2603000" />
+      <workItem from="1545829802080" duration="21000" />
+      <workItem from="1545834034646" duration="3705000" />
+      <workItem from="1545881304487" duration="25407000" />
+      <workItem from="1546248084367" duration="11690000" />
+      <workItem from="1546435847029" duration="9520000" />
+      <workItem from="1546695952484" duration="2069000" />
+      <workItem from="1546839417247" duration="631000" />
+      <workItem from="1546864742627" duration="9467000" />
+      <workItem from="1546945227724" duration="39000" />
+      <workItem from="1546963009797" duration="8629000" />
+      <workItem from="1547090137152" duration="9805000" />
+      <workItem from="1547185211520" duration="95000" />
+      <workItem from="1547185452878" duration="24000" />
+      <workItem from="1547187740258" duration="2635000" />
+      <workItem from="1547203338636" duration="6599000" />
+      <workItem from="1547349423411" duration="9539000" />
+      <workItem from="1547372529299" duration="2848000" />
+      <workItem from="1547437189933" duration="25278000" />
+      <workItem from="1547607337280" duration="19711000" />
+      <workItem from="1547702576153" duration="10173000" />
+      <workItem from="1547780499160" duration="603000" />
+      <workItem from="1547795063912" duration="3226000" />
+      <workItem from="1547966064249" duration="58000" />
+      <workItem from="1548085941508" duration="26779000" />
+      <workItem from="1548566554167" duration="1240000" />
+      <workItem from="1548744530174" duration="10206000" />
+      <workItem from="1548859108732" duration="14613000" />
+      <workItem from="1549198917053" duration="3053000" />
+      <workItem from="1549380562411" duration="1926000" />
+      <workItem from="1549537568238" duration="1350000" />
+      <workItem from="1550066682325" duration="11863000" />
+      <workItem from="1550208608474" duration="5402000" />
+      <workItem from="1550325651656" duration="10535000" />
+      <workItem from="1550413212682" duration="5540000" />
+      <workItem from="1550554394534" duration="14377000" />
+      <workItem from="1550639701326" duration="5243000" />
+      <workItem from="1550671860349" duration="9733000" />
+      <workItem from="1550831177642" duration="11753000" />
+      <workItem from="1550992125992" duration="5143000" />
+      <workItem from="1551361466638" duration="8451000" />
+      <workItem from="1551539260135" duration="7260000" />
+      <workItem from="1551626501274" duration="4878000" />
+      <workItem from="1551674915444" duration="8272000" />
+      <workItem from="1552191149504" duration="3835000" />
+      <workItem from="1552486932699" duration="12711000" />
+      <workItem from="1552648904472" duration="9350000" />
+      <workItem from="1552727351524" duration="16195000" />
+      <workItem from="1552921009708" duration="8057000" />
+      <workItem from="1552974948477" duration="63000" />
+      <workItem from="1552975257621" duration="696000" />
+      <workItem from="1553002159103" duration="6860000" />
+      <workItem from="1553052130850" duration="149000" />
+      <workItem from="1553327161052" duration="2888000" />
+      <workItem from="1553400036722" duration="26094000" />
+      <workItem from="1553613768585" duration="2981000" />
+      <workItem from="1553958873890" duration="15230000" />
+      <workItem from="1554088007505" duration="607000" />
+      <workItem from="1554096981988" duration="196000" />
+      <workItem from="1554215892775" duration="6273000" />
+      <workItem from="1554373262687" duration="5595000" />
+      <workItem from="1554437308720" duration="18460000" />
+      <workItem from="1554518361629" duration="22206000" />
+      <workItem from="1554689630691" duration="53000" />
+      <workItem from="1554732434038" duration="3014000" />
+      <workItem from="1554775591538" duration="603000" />
+      <workItem from="1554797946958" duration="30692000" />
+      <workItem from="1554893488927" duration="65000" />
+      <workItem from="1554979514626" duration="608000" />
+      <workItem from="1554986944684" duration="11000" />
+      <workItem from="1554990630346" duration="9849000" />
+      <workItem from="1555066624078" duration="18265000" />
+      <workItem from="1555213499137" duration="1800000" />
+      <workItem from="1555339686436" duration="6236000" />
+      <workItem from="1555384960860" duration="4483000" />
+      <workItem from="1555413116583" duration="13554000" />
+      <workItem from="1555582389600" duration="599000" />
+      <workItem from="1555587649353" duration="596000" />
+      <workItem from="1555589525194" duration="369000" />
+      <workItem from="1555595547370" duration="21265000" />
+      <workItem from="1555816004577" duration="24621000" />
+      <workItem from="1555896452997" duration="18443000" />
+      <workItem from="1555982464864" duration="20094000" />
+      <workItem from="1556033070735" duration="3138000" />
+      <workItem from="1556075166994" duration="9360000" />
+      <workItem from="1556267836173" duration="12053000" />
+      <workItem from="1556361436399" duration="15086000" />
+      <workItem from="1556448303551" duration="21652000" />
+      <workItem from="1556610097911" duration="8630000" />
+      <workItem from="1556713529609" duration="368000" />
+      <workItem from="1556858512204" duration="9936000" />
+      <workItem from="1556965406317" duration="13494000" />
+      <workItem from="1557050209951" duration="10074000" />
+      <workItem from="1557104396570" duration="25000" />
+      <workItem from="1557141332275" duration="12024000" />
+      <workItem from="1557226888879" duration="14281000" />
+      <workItem from="1557280564943" duration="517000" />
+      <workItem from="1557316936016" duration="6193000" />
+      <workItem from="1557366650199" duration="6374000" />
+      <workItem from="1557408730534" duration="9927000" />
+      <workItem from="1557583703485" duration="5156000" />
+      <workItem from="1557626206204" duration="29735000" />
+      <workItem from="1557748502920" duration="23357000" />
+      <workItem from="1557927937994" duration="599000" />
+      <workItem from="1558006328941" duration="7201000" />
+      <workItem from="1558172684118" duration="10077000" />
+      <workItem from="1558360725597" duration="5487000" />
+      <workItem from="1558440944550" duration="1578000" />
+      <workItem from="1558530053492" duration="10582000" />
+      <workItem from="1558618290149" duration="7764000" />
+      <workItem from="1558710374022" duration="5255000" />
+      <workItem from="1558875255506" duration="10475000" />
+      <workItem from="1558966473823" duration="17000" />
+      <workItem from="1559004067167" duration="245000" />
+      <workItem from="1559102221671" duration="5985000" />
+      <workItem from="1559194609468" duration="681000" />
+      <workItem from="1559401845406" duration="1522000" />
+      <workItem from="1559534947524" duration="2056000" />
+      <workItem from="1559612503717" duration="5767000" />
+      <workItem from="1559619108555" duration="40000" />
+      <workItem from="1559622530586" duration="5618000" />
+      <workItem from="1559896909228" duration="11960000" />
+      <workItem from="1560006438085" duration="1766000" />
+      <workItem from="1560055611921" duration="15256000" />
+      <workItem from="1560128597256" duration="23000" />
+      <workItem from="1560159763026" duration="8777000" />
+      <workItem from="1560215906108" duration="16782000" />
+      <workItem from="1560307626104" duration="63000" />
+      <workItem from="1560341867281" duration="3896000" />
+      <workItem from="1560353364697" duration="12593000" />
+      <workItem from="1560525094791" duration="694000" />
+      <workItem from="1560649139456" duration="603000" />
+      <workItem from="1560824239569" duration="10182000" />
+      <workItem from="1560846759405" duration="2985000" />
+      <workItem from="1560957450400" duration="1265000" />
+      <workItem from="1561444530179" duration="614000" />
+      <workItem from="1561821212547" duration="4039000" />
+      <workItem from="1562224134073" duration="10491000" />
+      <workItem from="1562466090640" duration="8438000" />
+      <workItem from="1563154804802" duration="13537000" />
+      <workItem from="1563193141089" duration="31704000" />
+      <workItem from="1563347727630" duration="11856000" />
+      <workItem from="1563410529227" duration="23789000" />
+      <workItem from="1563498094803" duration="28714000" />
+      <workItem from="1563601696124" duration="29453000" />
+      <workItem from="1563871008576" duration="1008000" />
+      <workItem from="1564017565006" duration="9451000" />
+      <workItem from="1564105539665" duration="7730000" />
+      <workItem from="1564193252474" duration="32131000" />
+      <workItem from="1564657546176" duration="6624000" />
+      <workItem from="1564796277539" duration="42000" />
+      <workItem from="1564834325743" duration="159000" />
+      <workItem from="1564964890326" duration="15781000" />
+      <workItem from="1565086201156" duration="1203000" />
+      <workItem from="1565169432847" duration="3220000" />
+      <workItem from="1565310023158" duration="14229000" />
+      <workItem from="1565445410917" duration="52463000" />
+      <workItem from="1565657943700" duration="25244000" />
+      <workItem from="1565834924597" duration="14837000" />
+      <workItem from="1565916986770" duration="28748000" />
+      <workItem from="1566020152000" duration="2620000" />
+      <workItem from="1566025359752" duration="11449000" />
+      <workItem from="1566189397955" duration="592000" />
+      <workItem from="1566195273540" duration="605000" />
+      <workItem from="1566204415568" duration="1742000" />
+      <workItem from="1566354928133" duration="47831000" />
+      <workItem from="1566521564196" duration="16000" />
+      <workItem from="1566522171848" duration="31540000" />
+      <workItem from="1566630579589" duration="11152000" />
+      <workItem from="1566735302529" duration="1134000" />
+      <workItem from="1567069162159" duration="1262000" />
+      <workItem from="1567337724601" duration="810000" />
+      <workItem from="1567386880758" duration="14432000" />
+      <workItem from="1567699071540" duration="2265000" />
+      <workItem from="1567764209447" duration="3014000" />
+      <workItem from="1567861547676" duration="1685000" />
+      <workItem from="1567934272703" duration="5413000" />
+      <workItem from="1568100076627" duration="2791000" />
+      <workItem from="1568896058771" duration="6618000" />
+      <workItem from="1569302320656" duration="63000" />
+      <workItem from="1569314136639" duration="38000" />
+      <workItem from="1569410472273" duration="1136000" />
+      <workItem from="1569477637730" duration="3109000" />
+      <workItem from="1569673439880" duration="109106000" />
+      <workItem from="1570192012903" duration="19526000" />
+      <workItem from="1570329250363" duration="4862000" />
+      <workItem from="1570589208456" duration="6937000" />
+      <workItem from="1570683917738" duration="64833000" />
+      <workItem from="1571140947975" duration="1586000" />
+      <workItem from="1571224629589" duration="9223000" />
+      <workItem from="1571721781575" duration="985000" />
+      <workItem from="1571841251804" duration="3178000" />
+      <workItem from="1572344993941" duration="1892000" />
+      <workItem from="1572669375704" duration="26242000" />
+      <workItem from="1572862770771" duration="13645000" />
+      <workItem from="1573299639222" duration="10000" />
+      <workItem from="1573804259689" duration="4330000" />
+      <workItem from="1573983908724" duration="3540000" />
+      <workItem from="1574398244508" duration="9218000" />
+      <workItem from="1574513992531" duration="15109000" />
+      <workItem from="1575688297715" duration="458000" />
+      <workItem from="1576584179711" duration="17526000" />
+      <workItem from="1581497414579" duration="10091000" />
+      <workItem from="1581925926477" duration="395000" />
+      <workItem from="1584371719631" duration="894000" />
+      <workItem from="1584406299094" duration="6082000" />
+      <workItem from="1584632059275" duration="386000" />
+      <workItem from="1584809391221" duration="1002000" />
+      <workItem from="1584861255181" duration="61003000" />
+      <workItem from="1585126802265" duration="968000" />
+      <workItem from="1586838006755" duration="639000" />
+      <workItem from="1586918943553" duration="13739000" />
+      <workItem from="1587366268211" duration="1758000" />
+      <workItem from="1587530951116" duration="1239000" />
+      <workItem from="1587629559884" duration="2518000" />
+      <workItem from="1587649193001" duration="9346000" />
+      <workItem from="1588121810240" duration="8476000" />
+      <workItem from="1588987871789" duration="8960000" />
+      <workItem from="1589254856829" duration="23173000" />
+      <workItem from="1591159175196" duration="10867000" />
+      <workItem from="1591327340304" duration="19575000" />
+      <workItem from="1600181305570" duration="702000" />
+      <workItem from="1600195132595" duration="273000" />
+      <workItem from="1608666323166" duration="559000" />
+    </task>
+    <task id="LOCAL-00001" summary="剑指offer">
+      <created>1556531957816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556531957816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="剑指offer">
+      <created>1556619777102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556619777102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="剑指offer">
+      <created>1556619823202</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556619823202</updated>
+    </task>
+    <task id="LOCAL-00004" summary="剑指offer">
+      <created>1556713859319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556713859319</updated>
+    </task>
+    <task id="LOCAL-00005" summary="剑指offer">
+      <created>1556858558236</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556858558236</updated>
+    </task>
+    <task id="LOCAL-00006" summary="剑指offer">
+      <created>1556966043519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556966043519</updated>
+    </task>
+    <task id="LOCAL-00007" summary="剑指offer">
+      <created>1557053440937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557053440937</updated>
+    </task>
+    <task id="LOCAL-00008" summary="剑指offer">
+      <created>1557145508539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557145508540</updated>
+    </task>
+    <task id="LOCAL-00009" summary="剑指offer">
+      <created>1557239738281</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557239738281</updated>
+    </task>
+    <task id="LOCAL-00010" summary="剑指offer">
+      <created>1557318374990</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557318374990</updated>
+    </task>
+    <task id="LOCAL-00011" summary="剑指offer">
+      <created>1557409674915</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557409674915</updated>
+    </task>
+    <task id="LOCAL-00012" summary="剑指offer">
+      <created>1557591413845</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1557591413845</updated>
+    </task>
+    <task id="LOCAL-00013" summary="剑指offer">
+      <created>1557753722085</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557753722085</updated>
+    </task>
+    <task id="LOCAL-00014" summary="leetcode">
+      <created>1557835670380</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557835670380</updated>
+    </task>
+    <task id="LOCAL-00015" summary="leetcode">
+      <created>1558008299091</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558008299091</updated>
+    </task>
+    <task id="LOCAL-00016" summary="leetcode">
+      <created>1558177619535</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558177619535</updated>
+    </task>
+    <task id="LOCAL-00017" summary="leetcode">
+      <created>1558360841984</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1558360841984</updated>
+    </task>
+    <task id="LOCAL-00018" summary="leetcode">
+      <created>1558451050832</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1558451050833</updated>
+    </task>
+    <task id="LOCAL-00019" summary="leetcode">
+      <created>1558541590593</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1558541590594</updated>
+    </task>
+    <task id="LOCAL-00020" summary="leetcode">
+      <created>1558627535450</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558627535451</updated>
+    </task>
+    <task id="LOCAL-00021" summary="leetcode">
+      <created>1558877635934</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1558877635934</updated>
+    </task>
+    <task id="LOCAL-00022" summary="leetcode">
+      <created>1559401911586</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1559401911586</updated>
+    </task>
+    <task id="LOCAL-00023" summary="剑指offer">
+      <created>1566379239863</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1566379239863</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2249835000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15718885" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31927025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23015021" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4940978" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43215507" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204105" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5059022" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15734825" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4940978" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43785632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204105" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5059022" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52993345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode" />
+    <MESSAGE value="剑指offer" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/array/_532.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/JDK8/src.zip!/java/sql/DriverManager.java</url>
+          <line>641</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/array/_33.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_895.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_895.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="522" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="stack" />
+        <watch expression="pos" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i == 31</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x==0&amp;&amp;y==1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>size==2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==11</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x==7&amp;&amp;y==17</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newI==1&amp;&amp;newJ==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==1&amp;&amp;j==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==2&amp;&amp;j==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xx==1&amp;&amp;yy==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==1&amp;&amp;j==1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p49.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p53.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p54.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p55.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p57.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p61.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/IterativeByStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1230">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/sort/SortUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="225" column="0" lean-forward="true" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/exem/cmb/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/dfs/_37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_84.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_380.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_381.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/BinaryTree/Trie/_336.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_690.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_729.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_146.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/JDK8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="3798" column="30" lean-forward="false" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/JDK8/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="333" column="19" lean-forward="false" selection-start-line="333" selection-start-column="19" selection-end-line="333" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/HashTable/_632.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/JDK8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="937" column="10" lean-forward="true" selection-start-line="937" selection-start-column="10" selection-end-line="937" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_895.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/linkedlist/_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/Stack/_224.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="92" column="18" lean-forward="false" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/slidingWindow/_992.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/String/_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jianzhiOffer/p52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/dp/_44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/JDK8/javafx-src.zip!/javafx/util/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1825">
+          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/JDK8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="1924" column="18" lean-forward="false" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/JDK8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="579" column="19" lean-forward="false" selection-start-line="579" selection-start-column="19" selection-end-line="579" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/bfs/_126.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/bfs/_127.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/dp/_32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/String/_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/BinarySearch/_153.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/union_find/_547.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/union_find/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode_hzc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
